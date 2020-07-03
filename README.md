@@ -33,3 +33,34 @@ The data contains the following columns, along with a brief description of the d
 14)native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
 15)Output adult.data contains one additional column for the label, which is >50K if the person's yearly income is greater than $50K, and otherwise <=50K.
+
+DATA VISUALIZATION IS DONE BY:-
+
+1)Count plot
+
+2)Histogram 
+
+3)Boxplot
+
+4)Heatmap 
+
+5)Jointmap
+
+6)Factorplot
+
+7)Pairplot 
+
+Machine learning algorithm used:-
+1)Logistic Regression 
+ 
+2)Decision Tree classifier 
+
+3)Bagging Classifier 
+
+4)Random Forest classifier 
+
+5)SGD Classifier 
+
+6)Gradient Boosting Classifier 
+
+
