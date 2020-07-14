@@ -52,6 +52,7 @@ The data here is for the "Census Income". This data is labeled with whether the 
    7)Pairplot 
 
 - Machine learning algorithm used:-
+
   1)Logistic Regression 
  
   2)Decision Tree classifier 
