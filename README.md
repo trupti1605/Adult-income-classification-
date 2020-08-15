@@ -45,11 +45,7 @@ The data here is for the "Census Income". This data is labeled with whether the 
 
    4)Heatmap 
 
-   5)Jointmap
-
-   6)Factorplot
-
-   7)Pairplot 
+   5)Pairplot 
 
 - Machine learning algorithm used:-
 
